@@ -94,9 +94,9 @@
 
 <a href="https://portifolio-lucianodutra-inicial.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/luciano-dutra-794598212/"><img alt="LinkedIn" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-2003.jpg" width="50px"></a>
+<a href="https://www.linkedin.com/in/luciano-dutra-794598212/"><img alt="LinkedIn" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-2003.jpg" width="60px"></a>
 
-<a href="https://www.instagram.com/lucianoodutra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/lucianoodutra/"><img alt="Instagram" src="https://marcas-logos.net/wp-content/uploads/wordpress-popular-posts/1523-featured-500x500.jpg" width="60px"></a>
 
 <a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
