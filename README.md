@@ -1,9 +1,9 @@
 
-### Bem-vindos ao meu GitHub 👋<h2> I'm Luciano Dutra</h2>
+### Bem-vindos ao meu GitHub 👋<h2> Me chamo Luciano Dutra</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 Sobre mim! </h3>
 
 
 
