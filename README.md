@@ -66,8 +66,7 @@
 
 <br/><br/>
 
-[![Luciano Dutra GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-[![Luciano Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianooDutra)](https://github.com/anuraghazra/github-readme-stats)
+[![Luciano Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianooDutra)](https://github.com/LucianooDutra/github-readme-stats)
 
 <br/>
 
