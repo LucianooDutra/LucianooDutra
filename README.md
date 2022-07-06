@@ -11,7 +11,7 @@
 
 - 🎓 &nbsp; Atualmente sou estudante de desenvolvimento Web pela Trybe
 
-- 🌱 &nbsp; Futuro desenvolvedor web full stark.
+- 🌱 &nbsp; Futuro desenvolvedor web full stack.
 
 - ✍️ &nbsp; Objetivo de poder ajudar pessoas através da tecnologia.
 
