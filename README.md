@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; A procura de uma realização profissional na área de desenvolvimento web.
 
-- 🎓 &nbsp; Atualmente sou estudante de desenvolvimento Web pela Trybe
+- 🎓 &nbsp; Atualmente sou estudante de desenvolvimento Web pela Trybe.
 
 - 🌱 &nbsp; Futuro desenvolvedor web full stack.
 
@@ -58,7 +58,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; 
 
 <hr>
 
