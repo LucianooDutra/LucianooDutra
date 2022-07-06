@@ -84,7 +84,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conecte comigo! </h3>
 
 <br>
 
