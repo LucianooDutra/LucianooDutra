@@ -98,7 +98,7 @@
 
 <a href="https://www.instagram.com/lucianoodutra/"><img alt="Instagram" src="https://marcas-logos.net/wp-content/uploads/wordpress-popular-posts/1523-featured-500x500.jpg" width="60px"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://www.logolynx.com/images/logolynx/6f/6fd34258a943ea9d74cc600d968afd37.jpeg" width="60px"></a>
+<a href="mailto:lucianoo_dutra@hotmail.com"><img alt="Email" src="https://www.logolynx.com/images/logolynx/6f/6fd34258a943ea9d74cc600d968afd37.jpeg" width="60px"></a>
 
 </p>
 
