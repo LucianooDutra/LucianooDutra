@@ -66,7 +66,7 @@
 
 <br/><br/>
 
-[![Luciano Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianooDutra)](https://github.com/LucianooDutra/github-readme-stats)
+[![Luciano Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianooDutra)](https://github.com/LucianooDutra)
 
 <br/>
 
