@@ -90,7 +90,7 @@
 <br>
 
 
-
+<div style="display: inline_block">
 <p align="center">
 
 <a href="https://portifolio-lucianodutra-inicial.netlify.app/"><img alt="Website" src="https://t.ctcdn.com.br/_9VQm0156JGtfi3_tkORFSskItk=/119x0:1168x591/1049x590/smart/i447457.jpeg" width="60px"></a>
@@ -102,7 +102,7 @@
 <a href="mailto:lucianoo_dutra@hotmail.com"><img alt="Email" src="https://www.logolynx.com/images/logolynx/6f/6fd34258a943ea9d74cc600d968afd37.jpeg" width="60px"></a> <p>lucianoo_dutra@hotmail.com</p>
 
 </p>
-
+</div>
 
 
 
