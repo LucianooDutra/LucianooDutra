@@ -58,8 +58,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; 
-
+- 🔧 &nbsp; Docker | SQL | JOIN | Node.js | TypeScript | POO - Programação Orientada a Objetos | SOLID | MongoDB
 <hr>
 
 
