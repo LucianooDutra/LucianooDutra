@@ -83,7 +83,7 @@
 
 
 
-<h3> 🤝🏻 Conecte comigo! </h3>
+<h3> 🤝🏻 Reach me! </h3>
 
 <br>
 
