@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<img src="./github-header-image.png" />
+
 ### Bem-vindos ao meu GitHub 👋<h2> Me chamo Luciano Dutra</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
