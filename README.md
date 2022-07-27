@@ -3,21 +3,21 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻 </h3>
-<h3>•💻 Sobre mim! </h3>
+<h3>•💻 About me! </h3>
 
 
 
-- 🤔 &nbsp; A procura de uma realização profissional na área de desenvolvimento web.
+- 🤔 &nbsp; Graduated in civil engineering, but looking for a professional accomplishment in the area of web development.
 
-- 🎓 &nbsp; Atualmente sou estudante de desenvolvimento Web pela Trybe.
+- 🎓 &nbsp; currently i am student at Trybe.
 
-- 🌱 &nbsp; Futuro desenvolvedor web full stack.
+- 🌱 &nbsp; Future Full-Stack developers.
 
-- ✍️ &nbsp; Objetivo de poder ajudar pessoas através da tecnologia.
+- ✍️ &nbsp; objective of being able to help people through technology..
 
 
 
-<h3>🛠 Tecnologias</h3>
+<h3>🛠 Technologies:</h3>
 
 
 
