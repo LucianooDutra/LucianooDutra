@@ -21,7 +21,7 @@
 
 
 
-- 💻 &nbsp; JavaScript | Python |
+- 💻 &nbsp; JavaScript 
 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Git | GitHub | Testes: Jest, react-testing-library | Metodologias ágeis: Scrum, Kanban  
 
@@ -52,7 +52,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Docker | SQL | JOIN | Node.js | TypeScript | POO - Programação Orientada a Objetos | SOLID | MongoDB
+- 🔧 &nbsp; Docker | SQL | JOIN | Node.js | TypeScript | POO - Programação Orientada a Objetos | SOLID | MongoDB | Python 
 <hr>
 
 
