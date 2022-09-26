@@ -25,11 +25,12 @@
 - 💻 &nbsp; JavaScript 
 
 - 🌐 &nbsp; 
-  Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Git | GitHub | Testes: Jest, react-testing-library
+
+  - Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Git | GitHub | Testes: Jest, react-testing-library
   
-  Back-end - Docker | SQL | JOIN | Node.js | TypeScript | Testes: Jest
+  - Back-end - Docker | SQL | JOIN | Node.js | TypeScript | Testes: Jest
   
-  Metodologias ágeis - Scrum, Kanban
+  - Metodologias ágeis - Scrum, Kanban
   
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="60px"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="60px">
