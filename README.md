@@ -26,7 +26,9 @@
 
 - 🌐 &nbsp; 
 
-  - Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Git | GitHub | Testes: Jest, react-testing-library
+  - Geral - Git | GitHub
+
+  - Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Testes: Jest, react-testing-library
   
   - Back-end - Docker | SQL | JOIN | Node.js | TypeScript | Testes: Jest
   
