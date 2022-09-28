@@ -55,9 +55,9 @@
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="75px"/>
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
 <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Docker-Logo-2013-2015.jpg" width="60px"/>
-<img src="https://www.diegomacedo.com.br/wp-content/uploads/2011/12/sql.jpg" width="70px"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCWPKlLhBry9dR4j_Zs03x9MW1VpXph3I6Q&usqp=CAU" width="90px"/>
-<img src="https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/06/10b88c68-typescript-logo.png" width="70px"/>
+<img src="https://www.diegomacedo.com.br/wp-content/uploads/2011/12/sql.jpg" width="50px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCWPKlLhBry9dR4j_Zs03x9MW1VpXph3I6Q&usqp=CAU" width="100px"/>
+<img src="https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/06/10b88c68-typescript-logo.png" width="80px"/>
 
 <!--
 
