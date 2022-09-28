@@ -54,7 +54,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" width="100px">
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="75px"/>
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
-<img src="[https://blog.geekhunter.com.br/wp-content/uploads/2019/06/docker-na-pratica-como-construir-uma-aplicacao-2.png](https://www.ondat.io/hubfs/Docker.png)" width="70px"/>
+<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Docker-Logo-2013-2015.jpg" width="70px"/>
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
