@@ -4,7 +4,7 @@
 
 
 <h3> 👨🏻 </h3>
-<h3>•💻 About me! </h3>
+<h3>•💻 About me! - Sobre mim!</h3>
 
 
 
