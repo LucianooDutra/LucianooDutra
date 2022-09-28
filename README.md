@@ -67,7 +67,8 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 To Learn - Aprendendo</h3>
+
 
 - 🔧 &nbsp; POO - Programação Orientada a Objetos | SOLID | MongoDB | Python 
 <hr>
@@ -94,7 +95,7 @@
 
 
 
-<h3> 🤝🏻 Reach me! </h3>
+<h3> 🤝🏻 contact me! - contate-me! </h3>
 
 <br>
 
