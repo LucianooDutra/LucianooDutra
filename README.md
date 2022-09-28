@@ -11,11 +11,14 @@
 - 🤔 &nbsp; Graduated in civil engineering, but looking for a professional accomplishment in the area of web development.
 - Formado em engenharia civil, mas buscando uma realização profissional na área de desenvolvimento web.
 
+
 - 🎓 &nbsp; Currently finishing the FullStack web development course at Trybe.
 - Atualmente finalizando o curso de desenvolvimento web FullStack pela Trybe.
 
+
 - 🌱 &nbsp; Future Full-Stack developer.
 - Futuro desenvolvedor Full-Stack.
+
 
 - ✍️ &nbsp; Objective of being able to help people through technology, improving even more their experience in the technological environment.
 - Objetivo de poder ajudar pessoas através da tecnologia, melhorando ainda mais a sua vivência no meio tecnológico.
