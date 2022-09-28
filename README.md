@@ -58,7 +58,7 @@
 <img src="https://www.diegomacedo.com.br/wp-content/uploads/2011/12/sql.jpg" width="40px"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCWPKlLhBry9dR4j_Zs03x9MW1VpXph3I6Q&usqp=CAU" width="110px"/>
 <img src="https://miro.medium.com/max/1004/1*ZfCTE6kZArxc0Nr_MybXPQ.png" width="115px"/>
-<img src="https://www.fullstackpython.com/img/logos/heroku.png" width="80px"/>
+<img src="https://www.fullstackpython.com/img/logos/heroku.png" width="75px"/>
 
 <!--
 
