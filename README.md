@@ -37,7 +37,7 @@
 
   - Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Testes: Jest, react-testing-library
   
-  - Back-end - Docker | SQL | JOIN | Node.js | TypeScript | Testes: Jest
+  - Back-end - Docker | SQL | MySQL | JOIN | Node.js | TypeScript | Testes: Jest
   
   - Metodologias ágeis - Scrum, Kanban
   
@@ -56,7 +56,7 @@
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
 <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Docker-Logo-2013-2015.jpg" width="60px"/>
 <img src="https://www.diegomacedo.com.br/wp-content/uploads/2011/12/sql.jpg" width="70px"/>
-<img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCWPKlLhBry9dR4j_Zs03x9MW1VpXph3I6Q&usqp=CAU" width="70px"/>
 <img src="https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" width="70px"/>
 
 <!--
