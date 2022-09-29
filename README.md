@@ -31,8 +31,6 @@
 
 - 💻 &nbsp; JavaScript 
 
-- 🌐 &nbsp; 
-
 - 🌐 &nbsp; Geral - Git | GitHub
 
 - 🌐 &nbsp; Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Testes: Jest, react-testing-library
