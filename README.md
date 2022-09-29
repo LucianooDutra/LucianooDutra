@@ -33,13 +33,13 @@
 
 - 🌐 &nbsp; 
 
-  - Geral - Git | GitHub
+- 🌐 &nbsp; Geral - Git | GitHub
 
-  - Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Testes: Jest, react-testing-library
+- 🌐 &nbsp; Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Testes: Jest, react-testing-library
   
-  - Back-end - Docker | SQL | MySQL | JOIN | Node.js | Deploy: Heroku | TypeScript | Testes: Jest
+- 🌐 &nbsp; Back-end - Docker | SQL | MySQL | JOIN | Node.js | Deploy: Heroku | TypeScript | Testes: Jest
   
-  - Metodologias ágeis - Scrum, Kanban
+- 🌐 &nbsp; Metodologias ágeis - Scrum, Kanban
   
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="80px"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="72px">
