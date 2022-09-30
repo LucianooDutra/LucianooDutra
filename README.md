@@ -29,7 +29,7 @@
 
 
 
-- 💻 &nbsp; JavaScript 
+- 💻 &nbsp; JavaScript | TypeScript
 
 - 🌐 &nbsp; Geral - Git | GitHub
 
