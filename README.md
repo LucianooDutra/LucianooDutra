@@ -37,7 +37,7 @@
 
 - 🌐 &nbsp; Front-end - HTML | CSS | Bootstrap | jQuery | ReactJS | Redux | Testes: Jest, react-testing-library
   
-- 🌐 &nbsp; Back-end - Docker | SQL | MySQL | JOIN | Node.js | Deploy: Heroku | TypeScript | Testes: Jest | POO - Programação Orientada a Objetos
+- 🌐 &nbsp; Back-end - Docker | SQL | MySQL | JOIN | Node.js | Deploy: Heroku | TypeScript | Testes: Jest | POO - Programação Orientada a Objetos | SOLID
   
 - 🌐 &nbsp; Metodologias ágeis - Scrum, Kanban
   
@@ -75,7 +75,7 @@
 <h3>🛠 To Learn - Aprendendo</h3>
 
 
-- 🔧 &nbsp;  SOLID | MongoDB | Python 
+- 🔧 &nbsp;  MongoDB | Python 
 <hr>
 
 
