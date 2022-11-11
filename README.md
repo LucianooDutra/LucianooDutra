@@ -76,7 +76,7 @@
 <h3>🛠 To Learn - Aprendendo</h3>
 
 
-- 🔧 &nbsp;  MongoDB | Python 
+- 🔧 &nbsp;  Python 
 <hr>
 
 
