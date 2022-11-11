@@ -19,8 +19,8 @@
 - Atualmente finalizando o curso de desenvolvimento web FullStack pela Trybe.
 
 
-- 🌱 &nbsp; Future Full-Stack developer.
-- Futuro desenvolvedor Full-Stack.
+- 🌱 &nbsp; Full-Stack developer.
+- Desenvolvedor Full-Stack.
 
 
 - ✍️ &nbsp; Objective of being able to help people through technology, improving even more their experience in the technological environment.
