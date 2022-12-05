@@ -11,7 +11,6 @@
 
 
 
-
 - 🤔 &nbsp; Graduated in civil engineering, but looking for a professional accomplishment in the area of web development.
 - Formado em engenharia civil, mas buscando uma realização profissional na área de desenvolvimento web.
 
