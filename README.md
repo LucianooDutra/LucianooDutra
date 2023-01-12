@@ -88,6 +88,12 @@
 
 <br/>
 
+[![Luciano Dutra GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucianooDutra)](https://github.com/LucianooDutra)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucianooDutra)
+<br/>
+
+<br/>
+
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300" align='right'>
 
 <hr>
