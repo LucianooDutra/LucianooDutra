@@ -100,6 +100,8 @@
 
 <a href="https://luciano-dutra-portifolio.vercel.app/"><img alt="Website" src="https://t.ctcdn.com.br/_9VQm0156JGtfi3_tkORFSskItk=/119x0:1168x591/1049x590/smart/i447457.jpeg" width="60px"></a> <a href="https://www.linkedin.com/in/luciano-dutra-794598212/"><img alt="LinkedIn" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-2003.jpg" width="60px"></a> <a href="https://www.instagram.com/lucianoodutra/"><img alt="Instagram" src="https://marcas-logos.net/wp-content/uploads/wordpress-popular-posts/1523-featured-500x500.jpg" width="60px"></a> <a href="mailto:lucianoo_dutra@hotmail.com"><img alt="Email" src="https://www.logolynx.com/images/logolynx/6f/6fd34258a943ea9d74cc600d968afd37.jpeg" width="60px"></a> <p>lucianoo_dutra@hotmail.com</p>
 
+  
+  <a href="https://luciano-dutra-portifolio.vercel.app/"><img alt="Website" src="https://t.ctcdn.com.br/_9VQm0156JGtfi3_tkORFSskItk=/119x0:1168x591/1049x590/smart/i447457.jpeg" width="60px"></a> <a href="https://www.linkedin.com/in/luciano-dutra-dev-full-stack/"><img alt="LinkedIn" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-2003.jpg" width="60px"></a> <a href="https://www.instagram.com/lucianoodutra/"><img alt="Instagram" src="https://marcas-logos.net/wp-content/uploads/wordpress-popular-posts/1523-featured-500x500.jpg" width="60px"></a> <a href="mailto:lucianoo_dutra@hotmail.com"><img alt="Email" src="https://www.logolynx.com/images/logolynx/6f/6fd34258a943ea9d74cc600d968afd37.jpeg" width="60px"></a> <p>lucianoo_dutra@hotmail.com</p>
 </div>
 
 
